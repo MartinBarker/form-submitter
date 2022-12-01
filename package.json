@@ -4,7 +4,7 @@
   "description": "",
   "main": "form-submitter.js",
   "scripts": {
-    "start":"node form-submitter.js",
+    "start": "node form-submitter.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
