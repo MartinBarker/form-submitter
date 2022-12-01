@@ -1,0 +1,24 @@
+{
+  "name": "45footballcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "download_upload.js",
+  "scripts": {
+    "start":"node form-submitter.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinBarker/45footballcrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinBarker/45footballcrawler/issues"
+  },
+  "homepage": "https://github.com/MartinBarker/45footballcrawler#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "puppeteer": "^18.2.1"
+  }
+}
