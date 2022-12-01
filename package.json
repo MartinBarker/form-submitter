@@ -1,8 +1,8 @@
 {
-  "name": "45footballcrawler",
+  "name": "form-submitter",
   "version": "1.0.0",
   "description": "",
-  "main": "download_upload.js",
+  "main": "form-submitter.js",
   "scripts": {
     "start":"node form-submitter.js",
     "test": "echo \"Error: no test specified\" && exit 1"
